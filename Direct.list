@@ -25,6 +25,38 @@ IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
 
+# PT
+DOMAIN-SUFFIX,www.nicept.net
+DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,zp.m-team.io
+DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,pt.btschool.club
+DOMAIN-SUFFIX,www.pttime.org
+DOMAIN-SUFFIX,www.haidan.video
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,dicmusic.com
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,1ptba.com
+DOMAIN-SUFFIX,audiences.me
+DOMAIN-SUFFIX,pt.soulvoice.club
+DOMAIN-SUFFIX,hdarea.club
+DOMAIN-SUFFIX,hdpt.xyz
+DOMAIN-SUFFIX,kamept.com
+DOMAIN-SUFFIX,pt.0ff.cc
+DOMAIN-SUFFIX,hdfans.org
+DOMAIN-SUFFIX,greatposterwall.com
+DOMAIN-SUFFIX,piggo.me
+DOMAIN-SUFFIX,zhuque.in
+DOMAIN-SUFFIX,azusa.wiki
+DOMAIN-SUFFIX,pterclub.com
+DOMAIN-SUFFIX,ultrahd.net
+DOMAIN-SUFFIX,xingtan.one
+DOMAIN-SUFFIX,ubits.club
+DOMAIN-SUFFIX,rousi.zip
+DOMAIN-SUFFIX,pt.keepfrds.com
+DOMAIN-SUFFIX,hhanclub.top
+
+
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
