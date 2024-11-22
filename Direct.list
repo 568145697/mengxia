@@ -28,6 +28,8 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # PT
 DOMAIN-SUFFIX,www.nicept.net
 DOMAIN-SUFFIX,kp.m-team.cc
+DOMAIN-SUFFIX,api.m-team.cc
+DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-SUFFIX,zp.m-team.io
 DOMAIN-SUFFIX,lemonhd.club
 DOMAIN-SUFFIX,pt.btschool.club
