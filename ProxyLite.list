@@ -6,9 +6,13 @@ DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,www.docker.com
 DOMAIN-SUFFIX,hub.docker.com
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,image.tmdb.org
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,tmdb
+
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
