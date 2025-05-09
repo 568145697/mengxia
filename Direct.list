@@ -268,6 +268,8 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
+DOMAIN-SUFFIX,misrv.com
+DOMAIN-SUFFIX,weatherapi.market.xiaomi.com
 
 # NetEase
 DOMAIN-SUFFIX,126.com
